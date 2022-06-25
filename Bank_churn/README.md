@@ -1,5 +1,9 @@
 # Исследование клиентов банка с целью минимизации оттока. 
 
+## Используемые библиотеки и модули
+
+Pandas, matplotlib и matplotlib.pyplot, seaborn, scipy.stats, sklearn.model_selection, sklearn.linear_model, sklearn.tree, sklearn.ensemble, sklearn.metrics, sklearn.preprocessing.
+
 ## Описание данных
 
 Датасет содержит данные о клиентах банка «Метанпром» в csv-файле. Банк располагается в Ярославле и областных городах: Ростов Великий и Рыбинск. Цель исследования - составление портретов клиентов, которые склонны прекращать сотрудничество с банком.
